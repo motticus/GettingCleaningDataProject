@@ -12,13 +12,13 @@
   
 ## Data
   The data files to be used are: 
-  -X_test.txt        ... Feature Test
-  -y_test.txt        ... Activity Test
-  -subject_test.txt  ... Test Subjects
+  - X_test.txt        ... Feature Test
+  - y_test.txt        ... Activity Test
+  - subject_test.txt  ... Test Subjects
   
-  -X_train.txt       ... Feature Training
-  -y_train.txt       ... Activity Training
-  -subject_train.txt ... Subject Training
+  - X_train.txt       ... Feature Training
+  - y_train.txt       ... Activity Training
+  - subject_train.txt ... Subject Training
   
 The Data has been pre-extracted prior to processing with the script.  
 
